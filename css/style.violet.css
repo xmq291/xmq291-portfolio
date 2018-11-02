@@ -245,20 +245,20 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 /*
 *
 * =====================
-* SERVICES
+* FOCUS
 * =====================
 *
 */
-.services-section hr {
+.focus-section hr {
   border-color: #fff;
 }
 
-.services-section .icon {
+.focus-section .icon {
   font-size: 3.5rem;
   text-shadow: 5px 5px 0 #724381;
 }
 
-.services-section p.description {
+.focus-section p.description {
   font-size: 0.9rem;
 }
 
@@ -553,11 +553,11 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 /*
 *
 * =====================
-* CUSTOEMRS
+* MY FULL STACK
 * =====================
 *
 */
-.customers-section img {
+.mystack-section img {
   padding: 10px;
   max-width: 150px;
 }
