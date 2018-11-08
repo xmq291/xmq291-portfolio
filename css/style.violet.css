@@ -1,12 +1,5 @@
-/* 
-========================================= 
-========================================= 
-
-Bootstrapious Boilerplate Template
-
-========================================= 
-========================================= */
 /*
+*
 *
 * =====================
 * GENERAL
@@ -227,19 +220,27 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .about-section .progress .progress-bar-skill1 {
-  background: #bc95c8;
+  background: #ba8bc9;
 }
 
 .about-section .progress .progress-bar-skill2 {
-  background: #b185bf;
+  background: #a266b4;
 }
 
 .about-section .progress .progress-bar-skill3 {
-  background: #a774b6;
+  background: #a67bb3;
 }
 
 .about-section .progress .progress-bar-skill4 {
-  background: #9c63ad;
+  background: #a574b3;
+}
+
+.about-section .progress .progress-bar-skill5 {
+  background: #9d73aa;
+}
+
+.about-section .progress .progress-bar-skill6 {
+  background: #a377b1;
 }
 
 /*
@@ -330,6 +331,13 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   color: #777;
 }
 
+.testimonials .item .testimonial .name-picture h6 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #777;
+}
+
 .testimonials .item .testimonial .name-picture p {
   color: #6c757d;
   margin: 0;
@@ -404,7 +412,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 * =====================
 *
 */
-#filter {
+/* #filter {
   text-align: center;
   margin: 20px 0;
   padding: 0;
@@ -548,7 +556,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 #detail-slider {
   margin-top: 50px;
-}
+} */
 
 /*
 *
